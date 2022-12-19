@@ -1,4 +1,6 @@
-// Assignment code here
+function promptFunc() {
+  
+}
 
 
 // Get references to the #generate element
