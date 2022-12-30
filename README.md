@@ -1,1 +1,1 @@
-# mod-3-chal
+# JS-password-gen
