@@ -1,10 +1,13 @@
-function promptFunc() {
-  
-}
-
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
+
+function generatePassword() {
+    prompt("enter a number from 8-128");
+   
+  console.log(prompt);
+  return "password here";
+}
 
 // Write password to the #password input
 function writePassword() {
