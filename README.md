@@ -17,4 +17,4 @@ No install required
 ![](./screenshots/password.6.PNG)
 
 ## Deployed Link
-
+[JS-Generator](https://charliegarvin.github.io/JS-password-gen/)
